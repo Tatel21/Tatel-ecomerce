@@ -87,7 +87,7 @@ section{
 }
 
 .header .logo i{
-    color:var(--orange);
+    color:var(--red);
 }
 
 .header .navbar a{
