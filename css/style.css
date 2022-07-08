@@ -87,7 +87,7 @@ section{
 }
 
 .header .logo i{
-    color:var(--red);
+    color:var(--orange);
 }
 
 .header .navbar a{
@@ -299,7 +299,7 @@ section{
 }
 
 .home .content p{
-    color: var(--orange);
+    color:var(--light-color);
     font-size: 1.7rem;
     padding:1rem 0;
     line-height: 1.8;
